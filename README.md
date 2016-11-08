@@ -1,8 +1,8 @@
 #Swift Radio
 
-Swift Radio is an open source radio station app with robust and professional features. This is a fully realized Radio App built entirely in Swift. **Master is now the Xcode 8.1/Swift 3 branch**. There is an Xcode 8/Swift 2.3 branch [here](https://github.com/swiftcodex/Swift-Radio-Pro/tree/xcode8).
+##Multiple Stations Streaming App
 
-![alt text](http://thebemedia.com/wp-content/uploads/2015/09/screen-1.jpg "Swift Radio")
+This is a fully realized Radio App built entirely in Swift.
 
 ##Video
 View this [**GETTING STARTED VIDEO**](https://youtu.be/m7jiajCHFvc).
