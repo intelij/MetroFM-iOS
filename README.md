@@ -4,11 +4,6 @@
 
 This is a fully realized Radio App built entirely in Swift.
 
-##Video
-View this [**GETTING STARTED VIDEO**](https://youtu.be/m7jiajCHFvc).
-It's short & sweet to give you a quick overview.  
-Give it a quick watch.
-
 ##Features
 
 - LastFM API and iTunes API Integration to automatically download Album Art
